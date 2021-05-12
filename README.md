@@ -61,7 +61,7 @@ Note: pixi-viewport and pixi.js are listed as peerDependency, which means you wi
 or [download the latest build from github](https://github.com/davidfig/pixi-scrollbox/releases)
 ```html
 <script src="/external-directory/pixi.js"></script>
-<script src="/external-directory/pixi-viewport.js"></script>
+<script src="/external-directory/viewport.js"></script>
 <script src="/external-directory/scrollbox.js"></script>
 <script>
     const Scrollbox = new Scrollbox(options)
